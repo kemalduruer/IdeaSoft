@@ -3,6 +3,7 @@
 Access the complete project on GitHub [here](https://github.com/ideasoft/se-take-home-assessment/tree/master).
 
 ## Initial Setup
+You change the copies of .env.example to .env
 
 To get started on the application setup, use the Docker Compose instruction:
 >docker-compose up --build
